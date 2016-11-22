@@ -1,10 +1,9 @@
 ﻿{
-	"version": 1479789438,
+	"version": 1479791398,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
 		"jquery-2.1.1.min.js",
-		"images/sprite-sheet0.png",
 		"images/sprite2-sheet0.png",
 		"images/enemy-sheet0.png",
 		"images/enemy-sheet1.png",
@@ -16,6 +15,7 @@
 		"images/player-sheet2.png",
 		"images/sprite4-sheet0.png",
 		"images/sprite5-sheet0.png",
+		"images/tiledbg.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
