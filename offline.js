@@ -1,0 +1,32 @@
+﻿{
+	"version": 1480001126,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"images/enemy-sheet0.png",
+		"images/enemy-sheet1.png",
+		"images/spaceship-sheet0.png",
+		"images/spaceship-sheet1.png",
+		"images/spaceship-sheet2.png",
+		"images/laser-sheet0.png",
+		"images/spacebackground.png",
+		"images/spacestars-sheet0.png",
+		"images/ufoblue-sheet0.png",
+		"images/ufoyellow-sheet0.png",
+		"images/ufored-sheet0.png",
+		"images/scroller-sheet0.png",
+		"images/meteor-sheet0.png",
+		"images/meteor-sheet1.png",
+		"images/meteor-sheet2.png",
+		"images/meteorparticles.png",
+		"images/explosion-sheet0.png",
+		"images/explosion-sheet1.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
