@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1480114953,
+	"version": 1480116816,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -14,7 +14,6 @@
 		"images/scroller-sheet0.png",
 		"images/meteor-sheet0.png",
 		"images/meteor-sheet1.png",
-		"images/meteor-sheet2.png",
 		"images/meteorparticles.png",
 		"images/explosion-sheet0.png",
 		"images/explosion-sheet1.png",
