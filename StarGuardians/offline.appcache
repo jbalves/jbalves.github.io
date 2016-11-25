@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1480102014
+#1480114953
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -23,6 +23,9 @@ images/spacestars-sheet0.png
 images/healthbackground-sheet0.png
 images/health.png
 images/explosionparticles.png
+images/sprite-sheet0.png
+images/dock-sheet0.png
+images/bigbosslaser-sheet0.png
 media/sfx_laser1.ogg
 media/sfx_laser2.ogg
 media/sfx_lose.ogg
