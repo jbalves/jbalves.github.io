@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1480054283,
+	"version": 1480102014,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -23,6 +23,7 @@
 		"images/spacestars-sheet0.png",
 		"images/healthbackground-sheet0.png",
 		"images/health.png",
+		"images/explosionparticles.png",
 		"media/sfx_laser1.ogg",
 		"media/sfx_laser2.ogg",
 		"media/sfx_lose.ogg",
