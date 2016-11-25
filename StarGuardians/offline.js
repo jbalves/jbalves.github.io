@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1480003763,
+	"version": 1480036046,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -12,9 +12,6 @@
 		"images/laser-sheet0.png",
 		"images/spacebackground.png",
 		"images/spacestars-sheet0.png",
-		"images/ufoblue-sheet0.png",
-		"images/ufoyellow-sheet0.png",
-		"images/ufored-sheet0.png",
 		"images/scroller-sheet0.png",
 		"images/meteor-sheet0.png",
 		"images/meteor-sheet1.png",
@@ -22,6 +19,7 @@
 		"images/meteorparticles.png",
 		"images/explosion-sheet0.png",
 		"images/explosion-sheet1.png",
+		"images/laserenemy-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
