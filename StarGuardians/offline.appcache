@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1480037854
+#1480054283
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -9,8 +9,7 @@ images/spaceship-sheet0.png
 images/spaceship-sheet1.png
 images/spaceship-sheet2.png
 images/laser-sheet0.png
-images/spacebackground.png
-images/spacestars-sheet0.png
+images/starfield.png
 images/scroller-sheet0.png
 images/meteor-sheet0.png
 images/meteor-sheet1.png
@@ -20,6 +19,17 @@ images/explosion-sheet0.png
 images/explosion-sheet1.png
 images/laserenemy-sheet0.png
 images/bigboss-sheet0.png
+images/spacestars-sheet0.png
+images/healthbackground-sheet0.png
+images/health.png
+media/sfx_laser1.ogg
+media/sfx_laser2.ogg
+media/sfx_lose.ogg
+media/sfx_shielddown.ogg
+media/sfx_shieldup.ogg
+media/sfx_twotone.ogg
+media/sfx_zap.ogg
+media/[trap]%20-%20aero%20chord%20-%20surface%20[monstercat%20release].ogg
 icon-16.png
 icon-32.png
 icon-114.png
