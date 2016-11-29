@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1480391080,
+	"version": 1480393122,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -13,13 +13,13 @@
 		"images/gameover-sheet0.png",
 		"images/nota01-sheet0.png",
 		"images/nota02-sheet0.png",
-		"images/nota03-sheet0.png",
 		"images/nota04-sheet0.png",
 		"images/cat-sheet0.png",
 		"images/cat-sheet1.png",
 		"images/dog-sheet0.png",
 		"images/dog-sheet1.png",
 		"images/dog-sheet2.png",
+		"media/foca da meia-noite - sweet child o´ mine.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
