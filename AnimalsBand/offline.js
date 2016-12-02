@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1480700157,
+	"version": 1480711836,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -24,8 +24,14 @@
 		"images/gatobanda-sheet1.png",
 		"images/focabanda-sheet0.png",
 		"images/focabanda-sheet1.png",
+		"images/telainicial-sheet0.png",
+		"images/spriteplay-sheet0.png",
+		"images/play-sheet0.png",
+		"images/particles.png",
 		"media/foca da meia-noite - sweet child o´ mine.ogg",
 		"media/som vaias.ogg",
+		"media/lisasaxsolobakerstree.ogg",
+		"media/aplausos efecto de sonido.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
