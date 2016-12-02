@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1480692137,
+	"version": 1480700157,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -18,6 +18,12 @@
 		"images/tiledground.png",
 		"images/bglight-sheet0.png",
 		"images/plateia-sheet0.png",
+		"images/cachorrobanda-sheet0.png",
+		"images/cachorrobanda-sheet1.png",
+		"images/gatobanda-sheet0.png",
+		"images/gatobanda-sheet1.png",
+		"images/focabanda-sheet0.png",
+		"images/focabanda-sheet1.png",
 		"media/foca da meia-noite - sweet child o´ mine.ogg",
 		"media/som vaias.ogg",
 		"icon-16.png",
